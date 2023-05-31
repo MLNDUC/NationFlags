@@ -1,2 +1,2 @@
 # NationFlags
-Mini game about nations' flag
+Mini game about nations' flags
